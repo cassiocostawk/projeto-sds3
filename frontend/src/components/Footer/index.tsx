@@ -4,7 +4,11 @@ const Footer = () => {
       <div className="container">
         <p className="text-light">
           App desenvolvido por{" "}
-          <a href="https://github.com/cassiocostawk" target="_blank" rel="noreferrer">
+          <a
+            href="https://github.com/cassiocostawk"
+            target="_blank"
+            rel="noreferrer"
+          >
             Cássio Costa
           </a>
         </p>
@@ -13,7 +17,11 @@ const Footer = () => {
             <strong>Semana Spring React</strong>
             <br />
             Evento promovido pela escola DevSuperior:{" "}
-            <a href="https://instagram.com/devsuperior.ig" target="_blank" rel="noreferrer">
+            <a
+              href="https://instagram.com/devsuperior.ig"
+              target="_blank"
+              rel="noreferrer"
+            >
               @devsuperior.ig
             </a>
           </small>
